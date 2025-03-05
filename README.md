@@ -2,7 +2,7 @@
 Quelle: https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
 
 ## README des Datensatzerstellers:
-
+<pre>
 \==========================================<br/>
 Bike Sharing Dataset<br/>
 ==========================================
@@ -113,6 +113,7 @@ Use of this dataset in publications must be cited to the following publication:<
 }
 
 =========================================<br/>
+<pre>
 Contact<br/>
 =========================================
 	
